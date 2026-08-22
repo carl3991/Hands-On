@@ -1,6 +1,8 @@
 # Hands On Haiti Food Economy: Staple Price Modeling & Geospatial Insights
 <br></br>
-[Haiti Food Economy — Interactive Tableau Story](https://public.tableau.com/app/profile/carl.legros8564/viz/HaitiFoodEconomy/Story1#1)
+[Haiti Food Economy - App] (https://ccl3991.shinyapps.io/haiti_wfp/)
+[Haiti Food Economy — Tableau](https://public.tableau.com/app/profile/carl.legros8564/viz/HaitiFoodEconomy/Story1#1)
+
 <br></br>
 ## 1. Problem Statement
 Haiti’s food markets have faced persistent instability driven by inflation, import dependence, and regional inequality. This project analyzes nearly two decades of food price data (2005–2023) to understand how affordability has changed over time and why certain departments, such as Artibonite and North West, consistently experience higher prices. The goal is to uncover the structural and shock-driven forces shaping food access across the country.
