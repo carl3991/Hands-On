@@ -1,5 +1,7 @@
 # Hands On Haiti Food Economy: Staple Price Modeling & Geospatial Insights
 <br></br>
+Explore the Haiti Food Economy: Live Shiny App & Tableau Story:
+
 [Haiti Food Economy - App](https://ccl3991.shinyapps.io/haiti_wfp/)
 
 [Haiti Food Economy - Tableau](https://public.tableau.com/app/profile/carl.legros8564/viz/HaitiFoodEconomy/Story1#1)
